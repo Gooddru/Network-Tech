@@ -2,6 +2,6 @@
 [Условие](./docs/lab05.pdf)  
 
 ## Отчет
-[Отчет](./report/3214 BabichAP 5.pdf)  
+[Отчет](./report/3214BabichAP5.pdf)  
 
 ---
